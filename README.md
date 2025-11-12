@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">Hey there, I'm Thomas </h1>
 
-<!--
-**PetermannThomas/PetermannThomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Based in Switzerland
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+<a href="mailto:thomas.042004@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-informational?style=flat&logo=gmail" /></a>
+<a href="https://www.linkedin.com/in/thomas-petermann-6473b02b8/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" /></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### About Me
+
+---
+
+### Tech Stack & Tools
+
+![Tech](https://skillicons.dev/icons?i=nodejs,python,tailwind,docker,linux,git,github,gitlab,grafana,js,azure,powershell,html,css&perline=9)
+
+---
+
+### GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=PetermannThomas&show_icons=true" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PetermannThomas&layout=compact" height="150" />
+</p>
